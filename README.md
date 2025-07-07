@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Worapichaya Boontam</h1>
-<h3 align="center">CS Student from Naresuan University</h3>
-
+<h1 >Hi 👋, I'm Worapichaya Boontam (Nice)</h1>
+<h2 >CS Student from Naresuan University</h2>
+<p>
+  
 - 🔭 I’m currently working on **Blind Spot Detection via Image Analysis**
 
 - 🌱 I’m currently learning **Computer Vision, IoT ,Useful Framwork**
 
-- 📫 How to reach me **worapichayab@gmail.com**
+- 📫 Contact me  **worapichayab@gmail.com**
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
