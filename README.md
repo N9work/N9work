@@ -1,10 +1,11 @@
 <h1 >Hi 👋, I'm Worapichaya Boontam (Nice)</h1>
-<h2 >CS Student from Naresuan University</h2>
+<h2 >Computer Science Student from Naresuan University</h2>
 <p>
-  
+
+-  <strong>BASE IN NAKHONSAWAN, THAILAND</strong>
 - 🔭 I’m currently working on **Blind Spot Detection via Image Analysis**
 
-- 🌱 I’m currently learning **Computer Vision, IoT ,Useful Framwork**
+- 🌱 I’m currently learning **AI, Computer Vision, IoT ,Useful Framework**
 
 - 📫 Contact me  **worapichayab@gmail.com**
 </p>
