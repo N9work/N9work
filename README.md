@@ -1,5 +1,5 @@
-<h1 >Hi 👋, I'm Worapichaya Boontam (Nice)</h1>
-<h2 >Computer Science Student from Naresuan University</h2>
+<h1 >Hi 👋, I'm Worapichaya Boontam (Nice) </h1>
+<h2 > 💻 Computer Science Student from Naresuan University</h2>
 <p>
 
 -  <strong>BASE IN NAKHON SAWAN, THAILAND</strong>
