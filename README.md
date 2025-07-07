@@ -2,7 +2,7 @@
 <h2 >Computer Science Student from Naresuan University</h2>
 <p>
 
--  <strong>BASE IN NAKHONSAWAN, THAILAND</strong>
+-  <strong>BASE IN NAKHON SAWAN, THAILAND</strong>
 - 🔭 I’m currently working on **Blind Spot Detection via Image Analysis**
 
 - 🌱 I’m currently learning **AI, Computer Vision, IoT ,Useful Framework**
